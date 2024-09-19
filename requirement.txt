@@ -1,5 +1,5 @@
 pandas
-sklearn
+scikit-learn
 streamlit
 joblib
 seaborn
