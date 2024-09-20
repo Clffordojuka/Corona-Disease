@@ -1,6 +1,6 @@
 import streamlit as st # type: ignore
 import pandas as pd # type: ignore
-import joblib # type: ignore
+import joblib
 
 st.title("Corona Virus Disease Prediction")
 
